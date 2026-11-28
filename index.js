@@ -29,6 +29,7 @@ userName.addEventListener('input', () => {
 function render(){
 
     list.textContent = '';
+    Error.textContent = '';
     article.sort((a, b) => b.date - a.date);
     
     article.forEach(art => {
