@@ -19,5 +19,5 @@ HTML, CSS, JavaScript, GitHub Pages.
 Перейти на опубликованную версию.
 
 Ссылки
-- Сайт: (https://xatercona.github.io/MiniBlog.github.io/)
+- Сайт: https://xatercona.github.io/MiniBlog.github.io/
 - Репозиторий: https://github.com/XATERcona/MiniBlog.github.io
