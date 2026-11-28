@@ -198,6 +198,7 @@ function render(){
 
             if (nameValue === ''|| textValue === '' ) { 
             textInput.placeholder = 'Заполните все поля в комментарии!!!';
+            nameInput.placeholder = 'Имя обязательно!!!';
             return;
              }
 
